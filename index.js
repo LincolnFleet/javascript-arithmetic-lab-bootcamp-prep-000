@@ -28,8 +28,8 @@ function dec(n) {
   return n
 }
 
-function makeInt(n, b=10) {
-  var result = parseInt('n', b)
+function makeInt(n) {
+  var result = parseInt('n', =10)
   return result
 }
 
