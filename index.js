@@ -7,3 +7,9 @@ function subtract(a, b) {
   var c = a - b
   return c
 }
+
+function multiply(a, b) {
+  var c = a * b 
+  return c 
+}
+
